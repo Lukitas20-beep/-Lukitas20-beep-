@@ -6,7 +6,7 @@ Olá! 👋 Seja bem-vindo(a) ao repositório do meu portfólio pessoal. Este pro
 
 **Você pode acessar o site e vê-lo em ação clicando aqui:**
 
-**[➡️ lucasferreira.dev](https://github.com/Lukitas20-beep)** *(Lembre-se de substituir este link pelo link real do seu site quando estiver no ar!)*
+**[➡️ Lukitas20-beep](https://lukitas20-beep.github.io/-Lukitas20-beep-/)** 
 
 ---
 
@@ -46,7 +46,7 @@ Se você quiser explorar o código ou rodar este projeto na sua própria máquin
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/Lukitas20-beep/seu-repositorio-de-portfolio.git](https://github.com/Lukitas20-beep/seu-repositorio-de-portfolio.git)
+    git clone [git@github.com:Lukitas20-beep/-Lukitas20-beep-.git](git@github.com:Lukitas20-beep/-Lukitas20-beep-.git)
     ```
 
 2.  **Navegue até a pasta do projeto:**
@@ -64,7 +64,7 @@ Se você quiser explorar o código ou rodar este projeto na sua própria máquin
 
 Gostou do que viu? Vamos nos conectar!
 
-* **LinkedIn:** [https://www.linkedin.com/in/seu-perfil-linkedin](https://www.linkedin.com/in/seu-perfil-linkedin)
-* **Email:** [seu-email-aqui@example.com](mailto:seu-email-aqui@example.com)
+* **LinkedIn:** [https://www.linkedin.com/in/lucas-ferreira-b38b9a138/](https://www.linkedin.com/in/lucas-ferreira-b38b9a138/)
+* **Email:** [lf8685741@gmail.com](mailto:lf8685741@gmail.com)
 
 Obrigado pela visita!
