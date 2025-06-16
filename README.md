@@ -46,7 +46,7 @@ Se você quiser explorar o código ou rodar este projeto na sua própria máquin
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [git@github.com:Lukitas20-beep/-Lukitas20-beep-.git](git@github.com:Lukitas20-beep/-Lukitas20-beep-.git)
+    git clone git@github.com:Lukitas20-beep/-Lukitas20-beep-.git
     ```
 
 2.  **Navegue até a pasta do projeto:**
